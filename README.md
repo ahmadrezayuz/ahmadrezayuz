@@ -43,8 +43,6 @@ I prioritize **clean code**, **scalable architecture**, and **real-world impact*
 
 ### 🚀 **Featured Projects**
 
-### 🚀 **Featured Projects**
-
 | Project | Description | Tech |
 |--------|------------|------|
 | **[Peleahani](https://peleahani.com)** | Live gold & silver trading platform with KYC verification, real-time pricing, and secure wallet management | Laravel, PostgreSQL, Redis, Vue.js |
