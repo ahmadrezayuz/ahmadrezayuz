@@ -45,8 +45,8 @@ I prioritize **clean code**, **scalable architecture**, and **real-world impact*
 
 | Project | Description | Tech |
 |--------|------------|------|
-| **[Peleahani](https://peleahani.com)** | Live gold & silver trading platform with KYC verification, real-time pricing, and secure wallet management | Laravel, PostgreSQL, Redis, Vue.js |
 | **[jetapay](https://jetapay.com)**     | Online exchange platform with crypto-style wallets, secure API auth, and flexible data querying | Laravel, Bavix Wallet, Rebing GraphQL, Laravel Passport |
+| **[Peleahani](https://peleahani.com)** | Live gold & silver trading platform with KYC verification, real-time pricing, and secure wallet management | Laravel, PostgreSQL, Redis, Vue.js |
 | **[Uzpalang](https://Uzpalang.com)**   | Tire & wheel e-commerce platform with advanced filtering, cart, checkout, and Stripe payments | Laravel, MySQL, Tailwind CSS |
 | **[Cooplink](https://Cooplink.ir)**    | Civil engineering job networking platform with profile management and secure authentication | Laravel, MySQL, Google 2FA, Laravel Breeze |
 | **[Kiddodays](https://Kiddodays.com)** | Platform for teachers, staff, and parents to track daily reports, educational roadmaps, and student progress in real time | Laravel, PostgreSQL, Redis, Alpine.js |
