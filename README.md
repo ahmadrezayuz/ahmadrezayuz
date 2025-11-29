@@ -18,7 +18,7 @@
 ---
 
 ### 🧠 **Professional Overview**
-With **8+ years** of experience in full-stack development, I specialize in building **secure, high-performance web applications** using **Laravel**, **Vue.js**, and modern DevOps practices. I’ve architected and shipped **15+ production systems**—from international payment gateways and trading platforms to Telegram Mini Apps—serving **200K+ users** since 2022.
+With **8+ years** of experience in full-stack development, I specialize in building **secure, high-performance web applications** using **Laravel**, **Vue.js**, and modern DevOps practices. I’ve architected and shipped **15+ production systems**—from international payment gateways and trading platforms to Telegram Mini Apps—serving **2M+ users** since 2022.
 
 I prioritize **clean code**, **scalable architecture**, and **real-world impact**—whether mentoring startup teams at **Hanis Accelerator** or optimizing database performance by **40%+**.
 
@@ -59,7 +59,7 @@ I prioritize **clean code**, **scalable architecture**, and **real-world impact*
 
 ### 📈 **Development Activity**
 - 8+ years building production Laravel systems
-- 15+ shipped applications (200K+ users)
+- 15+ shipped applications (2M+ users)
 - Contributions primarily in private repositories for client and startup projects
 
 ---
