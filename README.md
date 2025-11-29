@@ -43,28 +43,32 @@ I prioritize **clean code**, **scalable architecture**, and **real-world impact*
 
 ### 🚀 **Featured Projects**
 
+### 🚀 **Featured Projects**
+
 | Project | Description | Tech |
 |--------|------------|------|
-| **[Peleahani.com](https://peleahani.com)** | Live precious metals trading platform with KYC & real-time pricing | Laravel, PostgreSQL, Redis, Vue.js |
-| **[JetaPay.com](https://jetapay.com)** | Crypto-style exchange with wallet & GraphQL API | Laravel, Bavix Wallet, Rebing GraphQL |
-| **Pengu** | Telegram Mini App (Tap-to-Earn + NFT cards) | Laravel, Vue.js, Redis |
-| **Uzpalang.com** | Tire & wheel e-commerce with Stripe | Laravel, MySQL, Tailwind |
+| **[Peleahani](https://peleahani.com)** | Live gold & silver trading platform with KYC verification, real-time pricing, and secure wallet management | Laravel, PostgreSQL, Redis, Vue.js |
+| **[jetapay](https://jetapay.com)**     | Online exchange platform with crypto-style wallets, secure API auth, and flexible data querying | Laravel, Bavix Wallet, Rebing GraphQL, Laravel Passport |
+| **[Uzpalang](https://Uzpalang.com)**   | Tire & wheel e-commerce platform with advanced filtering, cart, checkout, and Stripe payments | Laravel, MySQL, Tailwind CSS |
+| **[Cooplink](https://Cooplink.ir)**    | Civil engineering job networking platform with profile management and secure authentication | Laravel, MySQL, Google 2FA, Laravel Breeze |
+| **[Kiddodays](https://Kiddodays.com)** | Platform for teachers, staff, and parents to track daily reports, educational roadmaps, and student progress in real time | Laravel, PostgreSQL, Redis, Alpine.js |
+| **[Pengu Army](https://t.me/Pengu_army_bot)** | Telegram Mini App featuring tap-to-earn mechanics, NFT cards, leagues, and real-time scoring | Laravel, Vue.js, Redis |
+| **[DoxPartners](https://t.me)**       | B2B payment infrastructure adopted by 10+ payment service providers for cross-border transactions | Laravel, MySQL, REST API, PHPUnit |
 
 > 🔒 Note: Some repos are private due to business sensitivity. Public demos or sanitized samples available on request.
 
 ---
 
-### 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadrezayuz&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadrezayuz&layout=compact&theme=radical" height="180" />
-</p>
+### 📈 **Development Activity**
+- 8+ years building production Laravel systems
+- 15+ shipped applications (200K+ users)
+- Contributions primarily in private repositories for client and startup projects
 
 ---
 
 ### 📬 **Let’s Connect**
 I’m open to **collaborations**, **technical consulting**, and **challenging full-stack opportunities**—especially in fintech, logistics, or scalable SaaS platforms.
 
-💬 **Languages**: Persian (Native) | English (Professional)
+💬 **Languages**: Persian (Native) | English (Professional) | Kurdish (Professional)
 
 📞 **Phone**: [+98 921 124 2238](tel:+989211242238)
