@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ahmadreza Yousefzad
+### 💼 Full-Stack PHP Developer | Laravel Expert | API Architect
 
-<!--
-**ahmadrezayuz/ahmadrezayuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+With **8+ years** of experience, I build secure, scalable web applications using **Laravel**, **Vue.js**, and modern DevOps practices. I've launched 15+ production systems—from **international payment gateways** and **crypto-style exchanges** to **Telegram Mini Apps** and **e-learning platforms**—serving **200K+ users**.
 
-Here are some ideas to get you started:
+🔧 **Tech Stack**:  
+`PHP 8+` `Laravel (v7–v12)` `Vue.js` `PostgreSQL` `MySQL` `Redis` `Docker` `REST / GraphQL` `Tailwind CSS`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Currently**:  
+- Optimizing real-time trading platforms  
+- Building modular B2B payment integrations  
+- Mentoring early-stage startup teams
+
+📫 **Let’s connect**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmadrezayousefzad)  
+📧 ahmadreza.yousefzad@email.com
+
+<!-- Optional: Add stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
